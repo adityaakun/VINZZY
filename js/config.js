@@ -1,7 +1,7 @@
 const CONFIG = {
 nama: "VINZZY CITER", // Nama Store
-profil: "https://iili.io/KaiMolt.jpg", // Url Profil
-banner: "https://files.catbox.moe/4j4v6b.png", // Url Banner 
+profil: "https://files.catbox.moe/kjowk4.jpg", // Url Profil
+banner: "https://apiku.ubed.my.id/file/cb-67bc21dd3302-fwyj1u.jpg", // Url Banner 
 tentang: "Vinzzy toko online terpercaya yang telah melayani ribuan pelelanggan sejak 2023. Kami menyediakan produk digital dan settingan FreeFirevyang mempermudah drag shot dengan kualitas terbaik dan harga terjangkau.\n\nKomitmen kami adalah memberikan pengalaman berbelanja yang menyenangkan dengan pelayanan terbaik, produk original.",
 alamat: "Indonesia",
 sosial_media: {
